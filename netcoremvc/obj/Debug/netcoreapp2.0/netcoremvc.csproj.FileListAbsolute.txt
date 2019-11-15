@@ -1,0 +1,11 @@
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\bin\Debug\netcoreapp2.0\netcoremvc.deps.json
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\bin\Debug\netcoreapp2.0\netcoremvc.runtimeconfig.json
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\bin\Debug\netcoreapp2.0\netcoremvc.runtimeconfig.dev.json
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\bin\Debug\netcoreapp2.0\netcoremvc.dll
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\bin\Debug\netcoreapp2.0\netcoremvc.pdb
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.csprojAssemblyReference.cache
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.csproj.CoreCompileInputs.cache
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.AssemblyInfoInputs.cache
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.AssemblyInfo.cs
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.dll
+C:\Users\jhon.calderon\netcoremvc\netcoremvc\obj\Debug\netcoreapp2.0\netcoremvc.pdb

@@ -1,0 +1,12 @@
+C:\Users\jhon.calderon\netcoremvc\netcoremvc
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=netcoremvc
+--content-root=C:\Users\jhon.calderon\netcoremvc\netcoremvc
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Home\About.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Home\Contact.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Home\Index.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Shared\Error.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Shared\_Layout.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\_ViewImports.cshtml
+--file=C:\Users\jhon.calderon\netcoremvc\netcoremvc\Views\_ViewStart.cshtml
